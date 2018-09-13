@@ -64,8 +64,8 @@ else
 fi
 
 # For Debian packaging
-export DEBEMAIL="mdeguzis@gmail.com"
-export DEBFULLNAME="Michael DeGuzis"
+export DEBEMAIL="david@spearing.net"
+export DEBFULLNAME="David T. Spearing"
 # .bashrc
 
 # Source global definitions
@@ -125,8 +125,8 @@ else
 fi
 
 # Debian packaging
-export DEBEMAIL="mdeguzis@gmail.com"
-export DEBFULLNAME="Michael DeGuzis"
+export DEBEMAIL="david@spearing.net"
+export DEBFULLNAME="David T. Spearing"
 
 # NOTE: set only in tmux.conf for now
 # Don't exit with CTRL+D (annoying with tmux) right away

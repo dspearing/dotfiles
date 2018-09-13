@@ -10,4 +10,4 @@ DSCVERIFY_KEYRINGS="/etc/apt/trusted.gpg: \
 # -kkeyid
 #	Specify the key ID to be used for signing; overrides any -m  and
 #	-e options.
-DEBSIGN_KEYID=57655DD5
+DEBSIGN_KEYID=0E77779F
